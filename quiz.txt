@@ -1,1 +1,2 @@
-hello world:
+hello world
+Git is easy and git is fun
